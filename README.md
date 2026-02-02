@@ -12,8 +12,6 @@ This repository tracks my daily progress in software development, DSA practice, 
 shraddha-daily-code/
 │
 ├── dsa-java/ # Java DSA practice
-├── dsa-python/ # Python DSA practice
-├── frappe-erpnext/ # ERPNext & Frappe work
 ├── projects/ # Mini & major projects
 ├── notes/ # Study & interview notes
 ├── daily-log/ # Daily learning logs
